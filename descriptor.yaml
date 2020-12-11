@@ -1,0 +1,10 @@
+code: fracchiollacalculator-bundle
+description: This is the fracchiollacalculator bundle
+
+components:
+  plugins:
+    - plugins/fracchiollacalculator-plugin.yaml
+
+  widgets:
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
