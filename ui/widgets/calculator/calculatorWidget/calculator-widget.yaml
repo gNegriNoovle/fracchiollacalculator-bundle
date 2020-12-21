@@ -1,0 +1,6 @@
+code: calculator-widget
+titles:
+  en: calculator Widget
+  it: calculator Widget
+group: free
+customUiPath: calculator-widget.ftl

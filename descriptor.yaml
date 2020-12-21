@@ -6,5 +6,4 @@ components:
     - plugins/fracchiollacalculator-plugin.yaml
 
   widgets:
-# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
-
+    - ui/widgets/calculator/calculatorWidget/calculator-widget.yaml
