@@ -1,4 +1,4 @@
-image: gioelenegri/fracchiollacalculator:0.0.1-SNAPSHOT
+image: gioelenegri/fracchiollacalculator:1.0.11
 dbms: none
 healthCheckPath: "/management/health"
 roles:
