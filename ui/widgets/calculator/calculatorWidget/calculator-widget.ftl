@@ -7,4 +7,4 @@
 <#-- Don't add anything above this line. The build scripts will automatically link the compiled JS and CSS for you and add them above this line so that the widget can be loaded-->
 
 <#-- This is the custom element -->
-<calculator-widget service-url="/gioelenegri/fracchiollacalculator/1-0-11/api" />
+<calculator-widget type="text/css" phase="0" service-url="/gioelenegri/fracchiollacalculator/1-0-11/api" />
